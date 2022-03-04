@@ -1,0 +1,56 @@
+#main {
+    width: 30%;
+    height: 400px;
+    margin-left: 35%;
+    margin-top: 5%;
+    box-shadow: 10px 20px 10px rgb(12, 155, 84);
+    border: 2px solid rgb(245, 230, 24);
+    background-color: rgb(202, 52, 52);
+}
+
+
+#main2{
+    width: 100%;
+    height: 100px;
+    margin: top 5%;
+
+  
+}
+#display {
+    width: 100%;
+    height: 93px;
+    
+    border: 5px solid white;
+    background-color: rgba(28, 192, 137, 0.274);
+}
+#display > input{
+ 
+     margin-left: 12%;
+        margin-top: 1%;
+        width: 77%;
+        height: 78%;
+    
+}
+#number{
+    text-align: center;
+    width: 70%;
+    height: 249px;
+    border: 1px solid rgb(51, 48, 241);
+    float: left;
+}
+#add1{
+    width: 30%;
+    height: 240px;
+    border: 1px solid black;
+    float: left;
+
+}
+#number>.btn {
+    width: 31%;
+    height: 24%;
+    margin-top: 3%;}
+#add1 > .btn{
+    width:100%;
+    height:20%;
+    margin-top: 5%;
+}
